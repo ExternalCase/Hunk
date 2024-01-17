@@ -5,7 +5,6 @@
 </p>
 <br/>
 
-# INTRANET 
 <br/>
 </br>
 <p align="center">
