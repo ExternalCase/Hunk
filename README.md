@@ -1,7 +1,7 @@
 <br/>
 </br>
 <p align="center">
-<img src="https://github.com/Monkey-hk4/BoT-Trilce/blob/main/trilce_check.png" title="Trilce Bot">
+<img src="https://github.com/rasmuskernel/Hunk/blob/main/hunk_subdominio.png" title="Subdominios">
 </p>
 <br/>
 
@@ -9,6 +9,6 @@
 <br/>
 </br>
 <p align="center">
-<img src="https://github.com/Monkey-hk4/BoT-Trilce/blob/main/intranet_trilce.png" title="Intranet">
+<img src="https://github.com/rasmuskernel/Hunk/blob/main/hunk_directorios.png" title="Directorios">
 </p>
 <br/>
